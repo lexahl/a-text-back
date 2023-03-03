@@ -4,6 +4,6 @@
 
 
 sources:\
-markov chain text generation: https://github.com/aparrish/rwet/blob/master/ngrams-and-markov-chains.ipynb \
-css: https://codepen.io/swards/pen/gxQmbj \
-html/js/api: https://anideafora.website
+markov chain text generation: <a href="https://github.com/aparrish/rwet/blob/master/ngrams-and-markov-chains.ipynb" target="_blank"> \
+css: <a href="https://codepen.io/swards/pen/gxQmbj" target="_blank"> \
+html/js/api: <a href="https://anideafora.website/" target="_blank">
